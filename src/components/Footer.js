@@ -4,12 +4,10 @@ import React from 'react'
 const Footer = props => (
   <footer id="footer">
     <section>
-      <h2>Aliquam sed mauris</h2>
+      <h2>New Age Marketing</h2>
       <p>
-        Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
-        magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
-        aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
-        tincidunt odio.
+        We take whatever you dream of and provide proven results to get the
+        revenue, clients, leads, followers, or growth that you want.
       </p>
       <ul className="actions">
         <li>
@@ -20,15 +18,15 @@ const Footer = props => (
       </ul>
     </section>
     <section>
-      <h2>Etiam feugiat</h2>
+      <h2>Contact Us</h2>
       <dl className="alt">
-        <dt>Address</dt>
-        <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
+        <dt>Addrss</dt>
+        <dd>1201 Dunes Street &bull; Fredericksburg, VA 22401 &bull; USA</dd>
         <dt>Phone</dt>
-        <dd>(000) 000-0000 x 0000</dd>
+        <dd>(540) 455-5837</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="https://codebushi.com">newagemarketing@gmail.com</a>
         </dd>
       </dl>
       <ul className="icons">
@@ -66,7 +64,7 @@ const Footer = props => (
       </ul>
     </section>
     <p className="copyright">
-      &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
+      &copy;<span>New Age Marketing</span>.
     </p>
   </footer>
 )

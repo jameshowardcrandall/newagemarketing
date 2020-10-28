@@ -41,18 +41,19 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>Who We Are</h2>
                 </header>
                 <p>
-                  Sed lorem ipsum dolor sit amet nullam consequat feugiat
-                  consequat magna adipiscing magna etiam amet veroeros. Lorem
-                  ipsum dolor tempus sit cursus. Tempus nisl et nullam lorem
-                  ipsum dolor sit amet aliquam.
+                  New Age Marketing is a fast growing company of experience ad
+                  managers, lead form creators, content managers, web
+                  developers, and more. With a team of three doing $1.2 million
+                  for out clients we take your ideas and dreams and turn them
+                  into a reality.
                 </p>
                 <ul className="actions">
                   <li>
-                    <Link to="/generic" className="button">
-                      Learn More
+                    <Link to="/who" className="button">
+                      Learn About The Team
                     </Link>
                   </li>
                 </ul>
@@ -65,31 +66,38 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>What We Do</h2>
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
-                <h3>Ipsum consequat</h3>
+                <span className="icon major style1 fa-line-chart"></span>
+                <h3>Multiplatform Ads</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  Paid ads is an easy way to get sales, leads and clients. We
+                  have experts that can get a stratigic plan together and run
+                  through details to show you how much you are missing out by
+                  not running paid ads for you business.
                 </p>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
-                <h3>Amed sed feugiat</h3>
+                <span className="icon major style3 fa-instagram"></span>
+                <h3>Social Media Growth</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  New Age Marketing has grown accounts ogranically over mulitple
+                  platforms. Currently managing accounts totatling over 650k
+                  followers we constantly engage followers and view trends in
+                  getting constant growth.
                 </p>
               </li>
               <li>
-                <span className="icon major style5 fa-diamond"></span>
-                <h3>Dolor nullam</h3>
+                <span className="icon major style5 fa-send-o"></span>
+                <h3>Lead Generation</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  If your business is not getting leads, we have the perfect
+                  solution for you. Our team builds high converting landing
+                  pages for any type of business. Currently we average at a
+                  conversion rate of over 8% for all lead generation pages we
+                  have built.
                 </p>
               </li>
             </ul>
@@ -106,46 +114,52 @@ class Index extends React.Component {
 
           <section id="second" className="main special">
             <header className="major">
-              <h2>Ipsum consequat</h2>
+              <h2>Our Results</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
+                With our stratigic plans we have proven we can take businesses
+                to the next level.
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                Our current and constantly updating results are as shown.
               </p>
             </header>
             <ul className="statistics">
               <li className="style1">
-                <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
+                <span className="icon fa-money"></span>
+                <strong>1.2M</strong> Client Revenue
               </li>
               <li className="style2">
-                <span className="icon fa-folder-open-o"></span>
-                <strong>8,192</strong> Magna
+                <span className="icon fa-users"></span>
+                <strong>10</strong> Current Happy Clients
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>2,048</strong> Tempus
+                <strong>45k</strong> Weekly Ad Spend
               </li>
               <li className="style4">
                 <span className="icon fa-laptop"></span>
-                <strong>4,096</strong> Aliquam
+                <strong>3</strong> Team Members
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
-                <strong>1,024</strong> Nullam
+                <strong>650k</strong> Followers Gained
               </li>
             </ul>
             <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
-              eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
-              ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
-              varius lorem, sed convallis diam accumsan sed. Etiam porttitor
-              placerat sapien, sed eleifend a enim pulvinar faucibus semper quis
-              ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer
-              eget purus nec nulla mattis et accumsan ut magna libero. Morbi
-              auctor iaculis porttitor. Sed ut magna ac risus et hendrerit
-              scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras
-              eu ornare dui curabitur lacinia.
+              New Age Marketing currently has 10 clients they manage with an
+              average ad spend of 45k a week through 3 team memembers.
+              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
+              Age Marketing currently has 10 clients they manage with an average
+              ad spend of 45k a week through 3 team memembers.
+              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
+              Age Marketing currently has 10 clients they manage with an average
+              ad spend of 45k a week through 3 team memembers.
+              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
+              Age Marketing currently has 10 clients they manage with an average
+              ad spend of 45k a week through 3 team memembers.
+              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
+              Age Marketing currently has 10 clients they manage with an average
+              ad spend of 45k a week through 3 team memembers.
+              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdf
             </p>
             <footer className="major">
               <ul className="actions">
@@ -160,11 +174,11 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Contact Us For a Free Consultaion</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
+                Schedule a free Consultaion with one of our experts today!
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                Get a stratigic plan to grow your business!
               </p>
             </header>
             <footer className="major">
