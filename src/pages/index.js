@@ -26,7 +26,7 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="Gatsby Starter - Stellar" />
+        <Helmet title="New Age Marketing" />
 
         <Header />
 
@@ -44,11 +44,11 @@ class Index extends React.Component {
                   <h2>Who We Are</h2>
                 </header>
                 <p>
-                  New Age Marketing is a fast growing company of experience ad
+                  New Age Marketing is a fast growing agency of experience ad
                   managers, lead form creators, content managers, web
                   developers, and more. With a team of three doing $1.2 million
-                  for out clients we take your ideas and dreams and turn them
-                  into a reality.
+                  for our clients already we take your business and scale it
+                  online.
                 </p>
                 <ul className="actions">
                   <li>
@@ -133,7 +133,7 @@ class Index extends React.Component {
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>45k</strong> Weekly Ad Spend
+                <strong>45k</strong> Monthly Ad Spend
               </li>
               <li className="style4">
                 <span className="icon fa-laptop"></span>
@@ -145,21 +145,17 @@ class Index extends React.Component {
               </li>
             </ul>
             <p className="content">
-              New Age Marketing currently has 10 clients they manage with an
-              average ad spend of 45k a week through 3 team memembers.
-              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
-              Age Marketing currently has 10 clients they manage with an average
-              ad spend of 45k a week through 3 team memembers.
-              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
-              Age Marketing currently has 10 clients they manage with an average
-              ad spend of 45k a week through 3 team memembers.
-              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
-              Age Marketing currently has 10 clients they manage with an average
-              ad spend of 45k a week through 3 team memembers.
-              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdfNew
-              Age Marketing currently has 10 clients they manage with an average
-              ad spend of 45k a week through 3 team memembers.
-              askjdfhalksjdfhajklsdhfkajlsdhfiuqwhefiasjkdhflkajsdhfkjlasdf
+              As an Agency we've generated over $1.2M in client revenue managing
+              over $45k a week in ad spend. Throughout this process we've seen
+              and studied first hand a mass amount of data between all major
+              marketing platforms and a range of different industries giving us
+              insight to exactly what it takes for highly successful campaigns.
+              Bringing on a digital marketing agency to handle the online
+              success of your business can sometimes be scary without knowing if
+              they will actually be able generate results for your business. Our
+              goal at New Age Marketing is to create a stress free relationship
+              between us and our clients by providing real results we've a
+              accomplished and bringing tangable results to their business!
             </p>
             <footer className="major">
               <ul className="actions">

@@ -20,13 +20,15 @@ const Footer = props => (
     <section>
       <h2>Contact Us</h2>
       <dl className="alt">
-        <dt>Addrss</dt>
+        <dt>Address</dt>
         <dd>1201 Dunes Street &bull; Fredericksburg, VA 22401 &bull; USA</dd>
         <dt>Phone</dt>
         <dd>(540) 455-5837</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">newagemarketing@gmail.com</a>
+          <a href="mailto:contact@newagemarketing.io">
+            contact@newagemarketing.io
+          </a>
         </dd>
       </dl>
       <ul className="icons">
@@ -46,19 +48,6 @@ const Footer = props => (
         <li>
           <a href="https://codebushi.com" className="icon fa-instagram alt">
             <span className="label">Instagram</span>
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/codebushi/gatsby-starter-stellar"
-            className="icon fa-github alt"
-          >
-            <span className="label">GitHub</span>
-          </a>
-        </li>
-        <li>
-          <a href="https://codebushi.com" className="icon fa-dribbble alt">
-            <span className="label">Dribbble</span>
           </a>
         </li>
       </ul>
